@@ -69,4 +69,4 @@ Immerse Yourself In A World Where Every Decision Or Step May Be Your Last! Welco
 
 ## Case Study Video
 
-[<img width="826" alt="Heist Thumbnail" src="https://github.com/HorizoX/Hiest_VR_Project/assets/122929016/128d2f63-3c95-4f68-b41c-2e6e651e4533">] (https://youtu.be/s-QDfgOvfyo "Click To Play!")
+[<img width="826" alt="Heist Thumbnail" src="https://github.com/VFS-VRAR/VAR05-Heist-FinalProject/blob/main/CaseStudyImage.png">] (https://youtu.be/s-QDfgOvfyo "Click To Play!")
